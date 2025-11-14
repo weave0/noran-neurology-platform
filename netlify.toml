@@ -1,7 +1,6 @@
-# Noran Neurology Globalization Platform
-
-Build command: `npm run build`
-Publish directory: `.next`
+[build]
+  command = "npm run build"
+  publish = ".next"
 
 [[redirects]]
   from = "/*"
