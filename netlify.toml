@@ -1,0 +1,9 @@
+# Noran Neurology Globalization Platform
+
+Build command: `npm run build`
+Publish directory: `.next`
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
